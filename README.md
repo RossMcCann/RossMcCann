@@ -9,3 +9,6 @@ Hello, My name is Ross McCann. I am currently a third year Computer Science stud
 ## Software, Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,django,docker,git,linux,neovim,mysql,nodejs,npm,react,vscode)](https://skillicons.dev)
 
+## Let's Connect
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ross-mccann-399581305/)
+
